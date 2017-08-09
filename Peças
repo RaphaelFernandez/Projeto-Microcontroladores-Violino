@@ -1,0 +1,12 @@
+Hardware:
+
+º Atmega644P-PU ou Atmega16A
+º IQS550 Azoteq
+º Leitores Opticos/Encoders
+
+Módulos:
+
+º Comunicação serial-MIDI
+º Comunicação SPI
+º Uso de ADC e PWM caso usemos nosso próprio touch
+º Interrupts por 
