@@ -1,2 +1,11 @@
 # Projeto-Microcontroladores-Violino
-Este repositorio serve como proposito propor todas as informaçoes necessarias para o projeto de microntroladores.
+
+ - Touch MIDI Violin -
+
+Esse repositório contém:
+
+* Datasheets 
+* códigos de uC's
+* Designs de circuitos e trackpads
+
+com o propósito de organizar o projeto de Microcontroladores.
